@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Quinta app</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="botonTexto">Clic me!</string>
+    <string name="textViewTopRES">Top text</string>
+    <string name="textViewBottomRES">Bottom text</string>
+</resources>
